@@ -1,0 +1,137 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+
+body {
+  letter-spacing: -0.05em !important;
+  background: transparent;
+  font-family: 'Nanum Gothic', Arial, Helvetica, sans-serif;
+
+}
+
+#article-list>.article-list-row>.item>.list-title>.list-writer>span {
+  width: 120px !important;
+}
+
+#article-list #article-list-category {
+  border-top: 2px solid #58C9FF;
+  background: white;
+}
+
+#article-list #article-list-category>a {
+  background: white;
+}
+
+#article-list>.article-list-row>.item>.list-header>span {
+  background-color: #58C9FF;
+}
+
+#article-list>.article-list-row>.item>.list-title>small.comment-count {
+  color: #58C9FF;
+}
+
+#article-list>.article-list-row>.item>.list-title>.list-writer.logged>span {
+  color: #58C9FF;
+}
+
+.pagination>.active>a,
+.pagination>.active>a:focus,
+.pagination>.active>a:hover,
+.pagination>.active>span,
+.pagination>.active>span:focus,
+.pagination>.active>span:hover {
+  background-color: #58C9FF;
+  border-color: #58C9FF;
+}
+
+.pagination>li>a:focus,
+.pagination>li>a:hover,
+.pagination>li>span:focus,
+.pagination>li>span:hover {
+  color: #58C9FF;
+}
+
+.pagination>li>a,
+.pagination>li>span {
+  color: #58C9FF;
+}
+
+#article-content-wrapper>.header {
+  border-top: 2px solid #58C9FF;
+}
+
+#article-reply-area #reply-real-area .reply>.reply-header>.reply-writer.logged,
+#article-reply-area #reply-best-area .reply>.reply-header>.reply-writer.logged {
+  color: #58C9FF;
+}
+
+#article-info>h2 {
+  font-weight: bold;
+}
+
+#article-info>h2>span.category {
+  color: #58C9FF !important;
+}
+
+#article-reply-area>.header h5 {
+  color: #58C9FF;
+}
+
+#article-reply-area #reply-real-area .reply>.reply-header>.reply-writer.logged,
+#article-reply-area #reply-best-area .reply>.reply-header>.reply-writer.logged {
+  color: #58C9FF;
+}
+
+.btn-primary {
+  background: #9DC8C8 !important;
+}
+
+/* ¸ð¹ÙÀÏ */
+
+#header-top-notice {
+  display: none;
+}
+
+header {
+  background-color: #58C9FF;
+  border-bottom-color: #9DC8C8;
+}
+
+header>#header-area>a>h1 {
+  background: url(https://cdn.discordapp.com/attachments/530581364068581376/582489229767213066/001.png) no-repeat;
+  background-size: auto 30px;
+  background-repeat: no-repeat;
+  height: unset !important;
+}
+
+header>#header-area>#header-search-link {
+  color: #9DC8C8;
+}
+
+header>#header-area>#header-bar-link {
+  color: #9DC8C8;
+}
+
+header>#header-search-bar #header-search-btn {
+  color: #9DC8C8;
+}
+
+#article-list>.article-list-row.notice>.item>a.list-title>.list-writer {
+  display: none;
+}
+
+header>#header-search-bar #header-search-input {
+  border-color: #9DC8C8;
+}
+
+#article-list>.article-list-row>.item>a.list-title>small.comment-count {
+  color: #58C9FF;
+  letter-spacing: -0.05em !important;
+}
+
+#article-list>.article-list-row>.item>a.list-title>.list-writer.logged>span {
+  color: #58C9FF;
+}
+
+#nav#nav>.nav-header {
+  background-color: #58C9FF;
+  color: white;
+}
